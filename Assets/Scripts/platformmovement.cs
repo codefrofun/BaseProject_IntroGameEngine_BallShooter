@@ -10,8 +10,8 @@ public class platformmovement : MonoBehaviour
 
     void Start()
     {
-        pointA = new Vector3(2, -2, -20);
-        pointB = new Vector3(2, -2, -24);
+        pointA = new Vector3(2, -2, -35);
+        pointB = new Vector3(2, -2, -30);
     }
 
     void Update()
